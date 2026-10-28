@@ -53,7 +53,7 @@
 
 ## 内容目录
 
-标准技能目录包含 24 个源文件：主入口、UI 元数据、9 份参考资料、8 份平台说明、4 份记录模板和通用启动指令。dist 目录提供可分享的发布产物。
+标准技能目录包含 26 个文件：主入口、UI 元数据、9 份参考资料、8 份平台说明、4 份记录模板、通用启动指令，以及正式许可文本和署名说明。dist 目录提供可分享的发布产物。
 
 | 部分 | 文件 | 作用 |
 | --- | --- | --- |
@@ -96,4 +96,12 @@
 
 ## 许可证
 
-本仓库暂未指定开源许可证。
+Copyright © 2026 [MantraChen](https://github.com/MantraChen)。
+
+本项目的原创 Skill 指令、教学文档、模板和配套资料采用 **[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE)** 授权。允许分享、修改和商业使用；再分发时需适当署名、提供许可链接，并说明是否做了修改。不得暗示原作者为你的使用背书，也不得施加与许可冲突的额外限制。完整条件以[官方许可文本](https://creativecommons.org/licenses/by/4.0/legalcode.en)为准。
+
+署名可以使用下面的格式，并按实际情况注明修改：
+
+> Data Structures Skills — MantraChen，来源：[GitHub 仓库](https://github.com/MantraChen/data-structures-skills)，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。修改说明：请按实际情况说明修改内容；未经修改时注明未修改。
+
+标准 Skill ZIP 内附许可文本和[署名说明](data-structures/ATTRIBUTION.md)，通用单文件版也保留这些信息。仅被链接或引用的第三方题目、网站和其他材料，其权利归属及原有许可不受本项目授权影响。

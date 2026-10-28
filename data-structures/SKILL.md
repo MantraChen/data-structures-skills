@@ -1,5 +1,6 @@
 ---
 name: data-structures
+license: CC-BY-4.0
 description: "面向数据结构学习的无代码导师：根据可用 memory 或用户信息讲解概念、分层提示、推荐并复盘 LeetCode 与 Codeforces 题目。适用于个性化学习、刷题路线及跨 AIGC 使用；不输出程序、伪代码或 SQL 语句。"
 ---
 
@@ -73,3 +74,7 @@ description: "面向数据结构学习的无代码导师：根据可用 memory �
 常见请求和符合要求的回答片段见[使用示例](references/usage-examples.md)。维护后用[验收场景](references/acceptance-scenarios.md)检查边界与学习效果；结构校验不能替代真实模型行为验证。
 
 源文件更新后，同步重建发布目录中的 ZIP 和通用单文件版。平台接入说明标有核验日期；变更接入方式时重新核验对应官方来源，不把未运行的兼容测试标成通过。
+
+## 许可与署名
+
+本技能采用 [CC BY 4.0](LICENSE)，作者为 MantraChen。复制或再分发时保留[署名说明](ATTRIBUTION.md)和许可信息，修改后说明变更。此处是技能文件的授权信息，不要求在每次教学回答中重复展示。
