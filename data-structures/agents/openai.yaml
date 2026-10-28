@@ -1,0 +1,4 @@
+interface:
+  display_name: "数据结构"
+  short_description: "无代码数据结构导师，结合学习记忆讲解、推荐两平台练习并复盘进阶"
+  default_prompt: "使用 $data-structures，根据可用 memory 或我提供的学习情况，结合我选择的语言讲解数据结构，并推荐适合的 LeetCode 和 Codeforces 题目，不输出任何代码。"
